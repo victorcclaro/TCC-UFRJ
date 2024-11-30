@@ -1,0 +1,9 @@
+Both files are too big to be added to GIT.
+
+Wind:
+-Download from https://novoatlas.azurewebsites.net/index.php/mapas-tematicos/
+-File: dados_gerais_Brasil.csv
+
+Population:
+-Download from https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-gpwv4-popcount-r11-4.11
+-File: gpw_v4_population_count_rev11_2020_30_sec.tif
